@@ -37,18 +37,6 @@ For the backend, personally I would prefer Node.js and PHP 7 for the full time. 
 
 If you think any of the roadmaps can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to watch/star this repository to revisit.
 
-## ☑ TODO
-
-- [X] Add Frontend Roadmap
-- [X] Add Backend Roadmap
-- [X] Add DevOps Roadmap
-- [ ] Add relevant resources for each
-
-## Sponsored By
-
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
-- [FancyGrid - JavaScript grid library with charts integration and server communication.](http://fancygrid.com)
-
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
